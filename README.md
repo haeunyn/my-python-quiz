@@ -68,3 +68,4 @@ python main.py
 이 프로젝트는 학습 목적으로 제작되었으며, 자유롭게 수정 및 배포가 가능합니다.
 
 
+# Clone test updated
